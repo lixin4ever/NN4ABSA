@@ -7,7 +7,8 @@ Neural Network based models for Aspect-Based Sentiment Analysis
 * Target Feat Extractor: Weighted sum of word vectors making up the target phrase
 
 # Performance
-| | 14semval-restaurant | 14semeval-laptop | Twitter
+| | 14semval-restaurant | 14semeval-laptop | Twitter |
+|---|---|---|---|
 |Model 1 | x | x | x |
 
 # References
