@@ -15,8 +15,8 @@ Neural Network based models for Aspect-Based Sentiment Analysis
 |Model 1 | x | x | x |
 
 # References
-[1]. Attention-based LSTM for Aspect-level Sentiment Classification. EMNLP 2016
-[2]. Interactive Attention Networks for Aspect-Level Sentiment Classification. IJCAI 2017
-[3]. Recurrent Attention Network on Memory for Aspect Sentiment Analysis. EMNLP 2017
+1. Attention-based LSTM for Aspect-level Sentiment Classification. EMNLP 2016
+2. Interactive Attention Networks for Aspect-Level Sentiment Classification. IJCAI 2017
+3. Recurrent Attention Network on Memory for Aspect Sentiment Analysis. EMNLP 2017
 
 
