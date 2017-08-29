@@ -13,7 +13,7 @@ Neural Network based models for Aspect-Based Sentiment Analysis
 |MemNet [2] | 78.16/65.83 | 70.33/64.09 | 68.50/66.91 |
 |IAN [3] | 78.6/- | 72.1/- | - |
 |RAM [4] | 80.23/70.80 | 74.49/71.35 | 69.36/67.30 |
-|Model 1 | 79.43/69.49 | 73.71/68.00 | 70.38/68.00 |
+|Model 1 | 79.43/69.49 | 74.65/69.27 | 70.38/68.00 |
 
 # References
 1. Attention-based LSTM for Aspect-level Sentiment Classification. EMNLP 2016
