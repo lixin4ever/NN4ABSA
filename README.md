@@ -1,5 +1,7 @@
 # NN4ABSA
-Neural Network based model for Aspect-Based Sentiment Analysis. NOTE: it is **NOT** related to our finished or ongoing research projects.
+Neural Network based model for Aspect-Based Sentiment Analysis. 
+
+* NOTE: it is **NOT** related to our finished or ongoing research projects.
 
 # Model 1
 * Word embeddings: [stanford GloVe](https://nlp.stanford.edu/projects/glove/)
